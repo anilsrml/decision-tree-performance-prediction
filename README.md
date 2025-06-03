@@ -43,7 +43,7 @@ Veri kümesi şu gibi özellikleri içermektedir:
    - Eğitim ve test verilerine ayrılması
 
 2. **Model Eğitimi**
-   - `DecisionTreeClassifier` kullanılarak model eğitimi
+   - `Random Forest` kullanılarak model eğitimi
    - Doğruluk (accuracy), F1 skoru, duyarlılık ve özgüllük ile değerlendirme
 
 3. **Görselleştirme**
