@@ -1,6 +1,6 @@
 # 🎓 Öğrenci Performans Sınıflandırma Projesi
 
-Bu proje, öğrencilerin sosyo-ekonomik, akademik ve demografik özelliklerine göre **akademik başarı seviyelerinin** (Düşük, Orta, Yüksek) makine öğrenmesi kullanılarak sınıflandırılmasını amaçlamaktadır.
+Bu proje, öğrencilerin sosyo-ekonomik, akademik ve demografik özelliklerine göre **akademik başarı seviyelerinin** makine öğrenmesi kullanılarak sınıflandırılmasını amaçlamaktadır.
 
 ---
 
