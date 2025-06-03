@@ -77,8 +77,3 @@ Modelin karar verirken hangi özellikleri ne kadar kullandığını gösterir.
 ### 🧬 Kast Performans Dağılımı
 
 Kast gruplarına göre öğrencilerin performans düzeyleri analizi.
-
----
-
-## 📁 Proje Dosya Yapısı (Önerilen)
-
